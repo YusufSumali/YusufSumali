@@ -2,4 +2,4 @@
 
 ## Yusuf As-Sumali
 
-Aspiring Network/Software Engineer, currently styding Network+.
+Aspiring Network/Software Engineer, currently styding Network+, I also have experience in Graphic Design.
