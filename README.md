@@ -10,6 +10,6 @@ PhotoPea
 Cisco Packet Tracer
 
 Portfolio
-![Packet-Tracer](| width=100)
+![Packet-Tracer](ray-so-export-Photoroom.png) =250x250
 
         
