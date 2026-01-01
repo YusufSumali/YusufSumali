@@ -9,6 +9,7 @@ I also have experience in Graphic Design.
 ## Portfolio  
 ![Portfolio-CiscoPacketTracer](CiscoExperience-modified.png)  
 
-## Working On: Maktabah As-Sanad  
-## Studying: Google Professional Cloud Network Engineer 
+## Projects
+Working On: Maktabah As-Sanad  
+Studying: Google Professional Cloud Network Engineer   
         
