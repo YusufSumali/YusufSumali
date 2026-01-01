@@ -1,12 +1,13 @@
 ![Background-img](backgrpund.png)
 # يوسف الصومالي
 
-## Yusuf As-Sumali
+## Yusuf As-Sumali  
 
-Aspiring Network Engineer.
+Aspiring Network Engineer.  
 I also have experience in Graphic Design.
 
-## Portfolio
+## Portfolio  
 
-Working On: Maktabah As-Sanad
+## Working On: Maktabah As-Sanad  
+## Studying: Google Professional Cloud Network Engineer 
         
