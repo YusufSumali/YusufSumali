@@ -8,9 +8,7 @@ I also have experience in Graphic Design.
 
 ## Portfolio  
 ![Portfolio-CiscoPacketTracer](CiscoExperience-modified.png)  
-![Portfolio-LinuxVM](LinuxExperience-modified.png)
-
-
+<img src="LinuxExperience-modified.png" alt="Alt Text" width="300" height="200">
 
 ## Projects
 Working On: Maktabah As-Sanad  
