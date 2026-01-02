@@ -1,7 +1,6 @@
 ![Background-img](backgrpund-modified.png)
-# يوسف الصومالي
-
-## Yusuf As-Sumali  
+# يوسف الصوماليā
+## Yūsuf As-Sūmālī  
 
 Aspiring Network Engineer.  
 I also have experience in Graphic Design.
