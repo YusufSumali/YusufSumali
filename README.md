@@ -1,5 +1,5 @@
 ![Background-img](backgrpund-modified.png)
-# يوسف الصوماليā
+# يوسف الصومالي
 ## Yūsuf As-Sūmālī  
 
 Aspiring Network Engineer.  
